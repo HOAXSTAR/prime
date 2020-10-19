@@ -1,0 +1,2 @@
+# prime
+check prime numbers
